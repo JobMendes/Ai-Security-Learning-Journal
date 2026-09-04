@@ -16,6 +16,7 @@ Rather than collecting definitions, I question each concept, connect it with rea
 | --- | --- | --- |
 | [Day 00](./day-00-why-ai-security/) | Why AI Security? | Published |
 | [Day 01](./day-01-building-blocks-of-ai/) | Building Blocks of AI | Published |
+| [Day 02](./day-02-ai-security-threats/) | AI Security Threats | Published |
 
 New entries are released gradually. Only published material is included in this repository.
 
