@@ -18,6 +18,7 @@ Rather than collecting definitions, I question each concept, connect it with rea
 | [Day 01](./day-01-building-blocks-of-ai/) | Building Blocks of AI | Published |
 | [Day 02](./day-02-ai-security-threats/) | AI Security Threats | Published |
 | [Day 03](./day-03-ai-models-and-data/) | AI Models & Data | Published |
+| [Day 04](./day-04-prompt-engineering/) | Prompt Engineering | Published |
 
 New entries are released gradually. Only published material is included in this repository.
 
