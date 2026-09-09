@@ -21,6 +21,7 @@ Rather than collecting definitions, I question each concept, connect it with rea
 | [Day 04](./day-04-prompt-engineering/) | Prompt Engineering | Published |
 | [Day 05](./day-05-ai-forensics/) | AI Forensics | Published |
 | [Day 06](./day-06-securing-ai-systems/) | Securing AI Systems | Published |
+| [Day 07](./day-07-llm-security/) | LLM Security | Published |
 
 New entries are released gradually. Only published material is included in this repository.
 
