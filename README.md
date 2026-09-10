@@ -22,6 +22,7 @@ Rather than collecting definitions, I question each concept, connect it with rea
 | [Day 05](./day-05-ai-forensics/) | AI Forensics | Published |
 | [Day 06](./day-06-securing-ai-systems/) | Securing AI Systems | Published |
 | [Day 07](./day-07-llm-security/) | LLM Security | Published |
+| [Day 08](./day-08-ai-threat-modelling/) | AI Threat Modelling | Published |
 
 New entries are released gradually. Only published material is included in this repository.
 
