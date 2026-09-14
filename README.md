@@ -26,6 +26,7 @@ Rather than collecting definitions, I question each concept, connect it with rea
 | [Day 09](./day-09-ai-system-reconnaissance/) | AI System Reconnaissance | Published |
 | [Day 10](./day-10-prompt-injection/) | Prompt Injection | Published |
 | [Day 11](./day-11-jailbreaking/) | Jailbreaking | Published |
+| [Day 12](./day-12-prompt-defence/) | Prompt Defence | Published |
 
 New entries are released gradually. Only published material is included in this repository.
 
