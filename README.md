@@ -29,6 +29,7 @@ Rather than collecting definitions, I question each concept, connect it with rea
 | [Day 12](./day-12-prompt-defence/) | Prompt Defence | Published |
 | [Day 13](./day-13-understanding-ai-supply-chains/) | Understanding AI Supply Chains | Published |
 | [Day 14](./day-14-supply-chain-attack-vectors/) | Supply Chain Attack Vectors | Published |
+| [Day 15](./day-15-securing-ai-supply-chain/) | Securing AI Supply Chain | Published |
 
 New entries are released gradually. Only published material is included in this repository.
 
