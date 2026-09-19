@@ -31,6 +31,7 @@ Rather than collecting definitions, I question each concept, connect it with rea
 | [Day 14](./day-14-supply-chain-attack-vectors/) | Supply Chain Attack Vectors | Published |
 | [Day 15](./day-15-securing-ai-supply-chain/) | Securing AI Supply Chain | Published |
 | [Day 16](./day-16-rag-security-fundamentals/) | RAG Security Fundamentals | Published |
+| [Day 17](./day-17-data-poisoning-in-rag-systems/) | Data Poisoning in RAG Systems | Published |
 
 New entries are released gradually. Only published material is included in this repository.
 
